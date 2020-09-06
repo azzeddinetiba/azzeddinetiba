@@ -1,6 +1,7 @@
-<h2> Hi, I'm TIBA Azzeddine!
+<h2> Hi, I'm TIBA Azzeddine! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="230">
-<p><em>Mechanical Engineering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieur D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Looking for 6 Months Internship opportunities
+<p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Looking for 6 Months Internship opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [![Portfolium: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA_Portfolio-Orange?style=flat-square&logo=Portfolium&logoColor=white&link=https://portfolium.com/AzzeddineTiba/portfolio)](https://portfolium.com/AzzeddineTiba/portfolio)
 [![Linkedin: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azzeddine-tiba/)](https://www.linkedin.com/in/azzeddine-tiba/)
