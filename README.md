@@ -1,4 +1,4 @@
-<h2> Hi, I'm TIBA Azzeddine! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm TIBA Azzeddine! <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="230">
 <p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Looking for 6 Months Internship opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -8,7 +8,7 @@
 [![GitHub azzeddinetiba](https://img.shields.io/github/followers/azzeddinetiba?label=Follow&style=social)](https://github.com/azzeddinetiba/)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/Tfd91e9R13cewUzBWh/giphy.gif" width="50"> A little more about me...  
 
 ```C++
 student tibaAzzeddine;
