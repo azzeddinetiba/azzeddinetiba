@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="50">, I'm TIBA Azzeddine! </h2>
 <img align='right' src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="230">
-<p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Looking for 6 Months Internship opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Portfolium: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA_Portfolio-Orange?style=flat-square&logo=Portfolium&logoColor=white&link=https://portfolium.com/AzzeddineTiba/portfolio)](https://portfolium.com/AzzeddineTiba/portfolio)
@@ -21,7 +21,7 @@ student tibaAzzeddine;
   tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research"};
  
   
-  tibaAzzeddine.lookingFor = "Computational Mechanics Intersnhip";
+  tibaAzzeddine.lookingFor = "Computational Mechanics vacancies";
 
 ```
 
