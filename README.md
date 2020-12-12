@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="50">, I'm TIBA Azzeddine! </h2>
 <img align='right' src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="230">
-<p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mechanical Enginnering Student at <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Portfolium: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA_Portfolio-Orange?style=flat-square&logo=Portfolium&logoColor=white&link=https://portfolium.com/AzzeddineTiba/portfolio)](https://portfolium.com/AzzeddineTiba/portfolio)
@@ -24,8 +24,7 @@ student tibaAzzeddine;
   tibaAzzeddine.lookingFor = "Computational Mechanics vacancies";
 
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, and my portfolio <b> I'll be happy to meet with you!</b></em>
+I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, and my portfolio <b> I'll be happy to meet with you!</b></em>
 
 ---
 
