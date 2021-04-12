@@ -28,5 +28,3 @@ student tibaAzzeddine;
 I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, and my portfolio <b> I'll be happy to meet with you!</b></em>
 
 ---
-
-⭐️ From [@TibaAzzeddine](https://github.com/azzeddinetiba/)
