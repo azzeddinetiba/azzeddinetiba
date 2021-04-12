@@ -18,7 +18,7 @@ student tibaAzzeddine;
   tibaAzzeddine.CAESoftware = {Ansys, Abaqus, Code_Aster, Comsol, CoventorMP, Fluent, FreeFem++, Hyperworks, Msc_Nastran, Optistruct};
   tibaAzzeddine.CADSoftware = {CATIA, SW};
   tibaAzzeddine.usedOS = {Windows, Linux};
-  tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research"};
+  tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research", "Dassault Systèmes"};
  
   
   tibaAzzeddine.lookingFor = "Computational Mechanics vacancies";
