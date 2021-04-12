@@ -15,7 +15,8 @@ student tibaAzzeddine;
 
   tibaAzzeddine.pronouns = "he" || "him";
   tibaAzzeddine.code = {C++, Python, Matlab, C, Fortran, R};
-  tibaAzzeddine.CAESoftware = {Ansys, Abaqus, Code_Aster, Comsol, CoventorMP, Fluent, FreeFem++, Hyperworks, Msc_Nastran, Optistruct};
+  tibaAzzeddine.CAESoftware = {deal.ii, Ansys, Abaqus, Code_Aster, FEniCS, sikit-fem,
+    Comsol, CoventorMP, Fluent, FreeFem++, Hyperworks, Msc_Nastran, Optistruct};
   tibaAzzeddine.CADSoftware = {CATIA, SW};
   tibaAzzeddine.usedOS = {Windows, Linux};
   tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research", "Dassault Systèmes"};
