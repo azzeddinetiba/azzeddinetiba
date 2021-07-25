@@ -21,8 +21,7 @@ student tibaAzzeddine;
   tibaAzzeddine.usedOS = {Windows, Linux};
   tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research", "Dassault Systèmes"};
  
-  
-  tibaAzzeddine.lookingFor = "Computational Mechanics vacancies";
+ 
 
 ```
 I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, and my portfolio <b> I'll be happy to meet with you!</b></em>
