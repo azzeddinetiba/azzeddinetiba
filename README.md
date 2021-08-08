@@ -3,7 +3,11 @@
 <p><em>Mechanical Enginner, graduated from <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a>. Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<!---
 [![Portfolium: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA_Portfolio-Orange?style=flat-square&logo=Portfolium&logoColor=white&link=https://portfolium.com/AzzeddineTiba/portfolio)](https://portfolium.com/AzzeddineTiba/portfolio)
+
+-->
+
 [![Linkedin: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azzeddine-tiba/)](https://www.linkedin.com/in/azzeddine-tiba/)
 [![GitHub azzeddinetiba](https://img.shields.io/github/followers/azzeddinetiba?label=Follow&style=social)](https://github.com/azzeddinetiba/)
 
