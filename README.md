@@ -1,6 +1,6 @@
 <h2>I'm Azzeddine! </h2>
 <img align='right' src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="230">
-<p><em>Mechanical Enginner, graduated from <a href="https://artsetmetiers.fr/">Ecole Nationale Superieure D'Arts Et Métiers</a>. Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Simulation Research Engineer. Ready for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!---
