@@ -15,7 +15,7 @@
 **A little more about me...**
 
 ```C++
-student tibaAzzeddine;
+Research_Engineer tibaAzzeddine;
 
   tibaAzzeddine.code = {C++, Python, Matlab, C, Fortran, R};
   tibaAzzeddine.CAESoftware = {deal.ii, Ansys, Abaqus, Code_Aster, FEniCS, sikit-fem,
