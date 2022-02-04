@@ -8,9 +8,18 @@
 
 -->
 
-[![Linkedin: TibaAzzeddine](https://img.shields.io/badge/-Azzeddine_TIBA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azzeddine-tiba/)](https://www.linkedin.com/in/azzeddine-tiba/)
-[![GitHub azzeddinetiba](https://img.shields.io/github/followers/azzeddinetiba?label=Follow&style=social)](https://github.com/azzeddinetiba/)
+<p>
+  <a href="mailto:azzeddine.tiba@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/azzeddinetiba">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/azzeddine-tiba">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge" />
+  </a>
 
+</p>
 
 **A little more about me...**
 
@@ -27,6 +36,14 @@ Research_Engineer tibaAzzeddine;
  
 
 ```
+
+#### Stats
+
+<a href="https://github.com/azzeddinetiba">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzeddinetiba&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
+
+
 I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, <b> I'll be happy to meet with you!</b></em>
 
 ---
