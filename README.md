@@ -26,7 +26,6 @@
 
 </p>
 
-**A little more about me...**
 
 ```C++
 Research_Engineer tibaAzzeddine;
@@ -41,13 +40,6 @@ Research_Engineer tibaAzzeddine;
  
 
 ```
-
-#### Stats
-
-<a href="https://github.com/azzeddinetiba">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzeddinetiba&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
-</a>
-
 
 I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, <b> I'll be happy to meet with you!</b></em>
 
