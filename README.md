@@ -26,6 +26,11 @@
 
 </p>
 
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
+![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
 
 ```C++
 Research_Engineer tibaAzzeddine;
@@ -40,6 +45,7 @@ Research_Engineer tibaAzzeddine;
  
 
 ```
+
 
 I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, <b> I'll be happy to meet with you!</b></em>
 
