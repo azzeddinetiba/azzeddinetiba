@@ -32,21 +32,5 @@
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
 
-```C++
-Research_Engineer tibaAzzeddine;
-
-  tibaAzzeddine.code = {C++, Python, Matlab, C, Fortran, R};
-  tibaAzzeddine.CAESoftware = {deal.ii, Ansys, Abaqus, Code_Aster, FEniCS, sikit-fem,
-    Comsol, CoventorMP, Fluent, FreeFem++, Hyperworks, Msc_Nastran, Optistruct};
-  tibaAzzeddine.CADSoftware = {CATIA, SW, Gmsh};
-  tibaAzzeddine.usedOS = {Windows, Linux};
-  tibaAzzeddine.internships =  {"LPEE", "Renault", "Jacobs", "Coventor LAM Research", "Dassault Systèmes"};
- 
- 
-
-```
-
-
-I'm interested in computational mechanics opportunities</b>, take a look at my Github and Linkedin Profiles, <b> I'll be happy to meet with you!</b></em>
 
 ---
